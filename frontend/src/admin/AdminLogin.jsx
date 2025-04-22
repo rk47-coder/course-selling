@@ -48,7 +48,7 @@ function AdminLogin() {
           <div className="flex items-center space-x-2">
             <img src={logo} alt="Logo" className="w-10 h-10 rounded-full" />
             <Link to={"/"} className="text-xl font-bold text-orange-500">
-              CourseHaven
+              CourseHub
             </Link>
           </div>
           <div className="flex items-center space-x-4">
