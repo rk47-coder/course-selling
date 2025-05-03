@@ -151,7 +151,7 @@ function Home() {
               Explore courses
             </Link>
             <Link
-              to={"https://www.youtube.com/learncodingofficial"}
+              to={"https://github.com/rk47-coder/course-selling"}
               className="bg-white text-black  p-2 md:py-3 md:px-6 rounded font-semibold hover:bg-green-500 duration-300 hover:text-white"
             >
               Courses videos
@@ -215,13 +215,13 @@ function Home() {
               <h3 className="text-lg font-semibold md:mb-4">connects</h3>
               <ul className=" space-y-2 text-gray-400">
                 <li className="hover:text-white cursor-pointer duration-300">
-                  youtube- learn coding
+                  youtube- https://github.com/rk47-coder/course-selling
                 </li>
                 <li className="hover:text-white cursor-pointer duration-300">
-                  telegram- learn coding
+                  telegram- CourseHub
                 </li>
                 <li className="hover:text-white cursor-pointer duration-300">
-                  Github- learn coding
+                  Github- https://github.com/rk47-coder/course-selling
                 </li>
               </ul>
             </div>
